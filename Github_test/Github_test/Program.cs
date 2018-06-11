@@ -10,7 +10,7 @@ namespace Github_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jeg har ændret din mor");
+            
             Console.WriteLine("dwdw");
         }
     }
