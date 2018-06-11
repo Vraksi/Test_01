@@ -11,7 +11,7 @@ namespace Github_test
         static void Main(string[] args)
         {
             
-            Console.WriteLine("dwd");
+            Console.WriteLine("dwddwd");
         }
     }
 }
